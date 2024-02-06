@@ -53,3 +53,23 @@ this [guide](CONTRIBUTING-mentors.md).
      </td>
    </tr>
 </table>
+
+
+<table>
+  <tr>
+     <td>
+       <img width="800px" src="https://tapis-project.org/static/tapis-project-org/img/org_logos/tapis-logo-navbar.png"/>
+     </td>
+     <td>
+        <h1>Tapis API</h1>
+        <p>
+          The Tapis Framework provides a hosted, unified web-based API for securely managing computational workloads across institutions so that experts can focus on their research instead of the technology needed to accomplish it..
+        </p>
+        <p>
+          <a href="https://tapis-project.org/"> Website </a> | <a href ="https://github.com/tapis-project/admin/issues/6">Ideas Page</a>   |  <a href="https://github.com/tapis-project/"> Source Code </a>
+        </p>
+     </td>
+   </tr>
+</table>
+
+ 
