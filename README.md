@@ -17,10 +17,12 @@ NHERI is participating as a umbrella organization. This means that
 you will need to identify a specific project to apply to under the
 NHERI umbrella. (Projects are listed below.)
 
-Read [this document][CONTRIBUTING-students.md] to learn how to apply for the
-GSoC program with NHERI. Please also check out our [ideas list].
+Read [this document](CONTRIBUTING-students.md) to learn how to apply for the
+GSoC program with NHERI. Please also check out our 
+[ideas list](https://github.com/DesignSafe-CI/gsoc/blob/main/2024/ideas-list.md).
 
-For any questions, please open an issue in our [issue tracker][issues]
+For any questions, please open an issue in our 
+[issue tracker](https://github.com/DesignSafe-CI/gsoc/issues)
 or send a email to krishnak@utexas.edu, our mailing list address.
 Please also consider subscribing to the mailing list at
 
