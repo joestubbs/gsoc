@@ -34,3 +34,20 @@ this [guide](CONTRIBUTING-mentors.md).
 * [DesignSafe-CI](https://designsafe-ci.org)
 * [NHERI SimCenter](https://simcenter.designsafe-ci.org/)
 * [TACC TAPIS](https://tacc.utexas.edu/research/tacc-research/tapis/)
+
+<table>
+  <tr>
+     <td>
+       <img width="800px" src="https://github.com/geoelements/geoelements.github.io/blob/main/images/geoelements/logo.png?raw=true"/>
+     </td>
+     <td>
+        <h1>Geoelements GNS</h1>
+        <p>
+          <a href="https://github.com/geoelements/gns">Graph Network-based Simulator (GNS)</a> is a generalizable, efficient, and accurate machine learning (ML)-based surrogate simulator for particulate and fluid systems using Graph Neural Networks (GNNs).
+        </p>
+        <p>
+          <a href="https://www.geoelements.org/gns">Website</a> | <a href ="https://github.com/geoelements/gns/discussions/66">Ideas Page</a> | <a href="https://github.com/geoelements/gns/discussions"> Discussions</a> | <a href="https://github.com/geoelements/gns">Source Code</a>
+        </p>
+     </td>
+   </tr>
+</table>
